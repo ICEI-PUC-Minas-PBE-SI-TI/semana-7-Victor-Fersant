@@ -4,12 +4,12 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Victor Fernades dos Santos
+- Matrícula: 928768
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print](public/PrintDoConsole.JPG)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo responsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
